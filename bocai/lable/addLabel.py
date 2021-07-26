@@ -9,7 +9,7 @@ heard={'Content-Type': 'application/x-www-form-urlencoded',
 payload={
     'ac':'edit',
     'id':'',
-    'name':'练习02',
+    'name':'练习03',
     'indexid':1
 }
 
