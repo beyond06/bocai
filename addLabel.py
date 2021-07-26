@@ -11,6 +11,7 @@ payload={
     'id':'',
     'name':'练习02',
     'indexid':1
+
 }
 
 resp=requests.post(url,data=payload,headers=heard)
